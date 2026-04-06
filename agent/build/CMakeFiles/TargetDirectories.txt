@@ -1,0 +1,3 @@
+/home/jaime/projects/agent/build/CMakeFiles/Device_agent.dir
+/home/jaime/projects/agent/build/CMakeFiles/edit_cache.dir
+/home/jaime/projects/agent/build/CMakeFiles/rebuild_cache.dir

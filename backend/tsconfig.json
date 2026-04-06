@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./src",        // IMPORTANTE: Dónde estará tu código fuente
+    "outDir": "./dist",        // IMPORTANTE: Dónde se guardará el código compilado
+    "strict": true,            // Regla de Oro en Big Tech: Modo estricto activado
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
