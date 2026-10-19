@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Device_agent.dir/src/main.cpp.o CMakeFiles/Device_agent.dir/src/collectors/MemCollector.cpp.o CMakeFiles/Device_agent.dir/src/transport/HttpClient.cpp.o CMakeFiles/Device_agent.dir/src/utils/TimeUtils.cpp.o -o Device_agent  /usr/lib/x86_64-linux-gnu/libcurl.so 

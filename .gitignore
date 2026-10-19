@@ -1,0 +1,12 @@
+# Node
+backend/node_modules/
+
+# CMake build
+agent/build/
+
+# Base de datos local
+backend/*.db
+
+# Otros
+.DS_Store
+*.log
